@@ -1,0 +1,4 @@
+baseurl = "https://wakuang123.com/"
+title = "挖矿123"
+languageCode = "cn-zh"
+theme = "hugo-material-blog"
