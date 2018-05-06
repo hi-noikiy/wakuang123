@@ -1,0 +1,138 @@
+baseurl = "https://wakuang123.com/"
+title = "挖矿123"
+languageCode = "cn-zh"
+theme = "hugo-material-blog"
+publishDir = "docs"
+
+# Pagination
+paginate = 3
+paginatePath = "page"
+
+# Copyright, appears in the footer
+copyright = "© 2018 wakuang123.com"
+
+# Links format
+[permalinks]
+  post = "/:year/:month/:title/"
+
+# Localization
+defaultContentLanguage = "cn"
+
+# English
+[languages.cn]
+  languageName = "Chinese"
+
+  # Main menu
+  [[languages.en.menu.main]]
+    url = "/"
+    name = "首页"
+    weight = 1
+
+  # Footer menu 1
+  [[languages.en.menu.footer1]]
+    url = "#"
+    name = "服务1"
+    weight = 1
+  [[languages.en.menu.footer1]]
+    url = "#"
+    name = "服务2"
+    weight = 2
+
+  # Footer menu 2
+  [[languages.en.menu.footer2]]
+    url = "/"
+    name = "首页"
+    weight = 1
+  [[languages.en.menu.footer2]]
+    url = "/about/"
+    name = "关于"
+    weight = 2
+
+  # Include menus in footer
+  [[languages.en.params.footer_menus]]
+    name = "服务"
+    menu = "footer2"
+  [[languages.en.params.footer_menus]]
+    name = "链接··"
+    menu = "footer1"
+
+# English
+[languages.en]
+  languageName = "English"
+
+  # Main menu
+  [[languages.en.menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
+
+  # Footer menu 1
+  [[languages.en.menu.footer1]]
+    url = "#"
+    name = "Service 1"
+    weight = 1
+  [[languages.en.menu.footer1]]
+    url = "#"
+    name = "Service 2"
+    weight = 2
+
+  # Footer menu 2
+  [[languages.en.menu.footer2]]
+    url = "/"
+    name = "Home"
+    weight = 1
+  [[languages.en.menu.footer2]]
+    url = "/about/"
+    name = "About"
+    weight = 2
+
+  # Include menus in footer
+  [[languages.en.params.footer_menus]]
+    name = "Services"
+    menu = "footer2"
+  [[languages.en.params.footer_menus]]
+    name = "Links"
+    menu = "footer1"
+
+# French
+[languages.fr]
+  languageName = "Français"
+
+  # Main menu
+  [[languages.fr.menu.main]]
+    url = "/fr/"
+    name = "Accueil"
+    weight = 1
+
+  # Footer menu 1
+  [[languages.fr.menu.footer1]]
+    url = "#"
+    name = "Service 1"
+    weight = 1
+  [[languages.fr.menu.footer1]]
+    url = "#"
+    name = "Service 2"
+    weight = 2
+
+  # Footer menu 2
+  [[languages.fr.menu.footer2]]
+    url = "/fr/"
+    name = "Accueil"
+    weight = 1
+  [[languages.fr.menu.footer2]]
+    url = "/about/"
+    name = "Sur"
+    weight = 2
+
+  # Include menus in footer
+  [[languages.fr.params.footer_menus]]
+    name = "Services"
+    menu = "footer2"
+  [[languages.fr.params.footer_menus]]
+    name = "Links"
+    menu = "footer1"
+
+# Other params
+[params]
+  # Display post summaries instead of content in list templates (default: true)
+  # truncate = false
