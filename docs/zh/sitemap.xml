@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://wakuang123.com/zh/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wakuang123.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://wakuang123.com/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wakuang123.com/zh/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://wakuang123.com/zh/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wakuang123.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://wakuang123.com/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wakuang123.com/zh/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://wakuang123.com/zh/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://wakuang123.com/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wakuang123.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wakuang123.com/zh/"
+                />
+  </url>
+  
+</urlset>
