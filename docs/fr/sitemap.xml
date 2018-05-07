@@ -48,21 +48,6 @@
   </url>
   
   <url>
-    <loc>https://wakuang123.com/fr/2014/03/migrer-vers-hugo-depuis-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wakuang123.com/2014/03/migrate-to-hugo-from-jekyll/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://wakuang123.com/fr/2014/03/migrer-vers-hugo-depuis-jekyll/"
-                />
-  </url>
-  
-  <url>
     <loc>https://wakuang123.com/fr/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -111,12 +96,6 @@
   <url>
     <loc>https://wakuang123.com/fr/categories/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://wakuang123.com/fr/categories/jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
